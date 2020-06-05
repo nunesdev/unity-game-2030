@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fbcbb0c944b0e04fb12c2933cc29c7d
+timeCreated: 1488946916
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - somDePegar: {fileID: 8300000, guid: f2ad15b82021ca64f98e64c294c672a3, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

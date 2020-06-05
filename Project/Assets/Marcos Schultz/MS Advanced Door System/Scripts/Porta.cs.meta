@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 369d7728ea0d7784c9116b6b08a34c8a
+timeCreated: 1488946977
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - textoAperteE: {instanceID: 0}
+  - textoPortaTrancada: {instanceID: 0}
+  - somDeAbrir: {fileID: 8300000, guid: 9cba96c3d58c7ca45b6b32abfea4f000, type: 3}
+  - somDeFechar: {fileID: 8300000, guid: 9cba96c3d58c7ca45b6b32abfea4f000, type: 3}
+  - somDeTrancado: {fileID: 8300000, guid: ffb5a4f61ae4eea489b3d1171592bf46, type: 3}
+  - somDeDestrancando: {fileID: 8300000, guid: a6b6b0231a2b4ee4ea9ad34cf92f00c8, type: 3}
+  - pontoDeProximidade: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
